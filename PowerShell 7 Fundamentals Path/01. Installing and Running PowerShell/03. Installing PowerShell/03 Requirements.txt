@@ -1,0 +1,3 @@
+- Windows 10
+- Universal C++ Runtime
+- Windows Management Framework >4.0
