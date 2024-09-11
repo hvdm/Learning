@@ -1,0 +1,5 @@
+10.0.0.5	DC1     Active Direcory Server
+10.0.0.7	FS1	    File Server
+10.0.0.8	MGT	    Administration Workstation
+10.0.0.10	SRV1	Member Server 1
+10.0.0.11	SRV1	Member Server 2

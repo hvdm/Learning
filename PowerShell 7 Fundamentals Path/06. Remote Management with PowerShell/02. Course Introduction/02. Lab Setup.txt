@@ -1,0 +1,24 @@
+LAB Setup
+Let's talk about the company that we're going to represent, so Globomantics. 
+We're going to all be the IT administrators for Globomantics. 
+Our core daily task is to execute PowerShell scripts. These are often time‑consuming tasks. 
+We have to copy them to each server, and then we have to execute them locally, so there has 
+to be a better way. So we simply need a process to execute these effectively, remotely on other 
+machines without having to go through that same process again and again and again. 
+
+Now to help us do this, in my lab environment that represents Globomantics, I have an 
+- Active Directory server
+- File server
+- Administration workstation that's running Windows 10
+- Sdministration workstation that's running Linux, and we're using Ubuntu Linux for this. 
+
+And the idea behind this is to represent a cross‑section of all of the servers in our infrastructure 
+that we would have at Globomantics. So what do you need in order to do this? 
+Well, first off, you need that Globomantics lab setup or something similar. 
+
+Maybe your production environment is the same, or maybe you have a test environment. 
+You need to have installed PowerShell 7, so at least we have that in those environments, 
+then installed a PowerShell editor, and there the two that I like to pick are Visual Studio Code 
+or the new Windows Terminal. Either of those are fine. And then of course, you'll need connection 
+details for the remote machines themselves, so things like the IP address or the name, and then, 
+of course, the credentials that you wish to connect to.
