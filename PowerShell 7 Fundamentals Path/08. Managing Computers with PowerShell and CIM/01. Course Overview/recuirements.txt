@@ -1,0 +1,7 @@
+Since this is a Powershell 7 course, the Get-WMIObject can't be used
+because that isn't part of the PowerShell Core.
+
+You need to switch back to Powershell 5.1
+
+in VScode -> In the terminal Window -> Click the dropdown right next to the + icon.
+Select "Select Default Profile" and choose Windows Powershell
