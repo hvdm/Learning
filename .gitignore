@@ -7,3 +7,8 @@
 
 #
 launch.json
+
+# My ignores
+/*pycache*/
+*pycache*
+*Zed Shaw*
