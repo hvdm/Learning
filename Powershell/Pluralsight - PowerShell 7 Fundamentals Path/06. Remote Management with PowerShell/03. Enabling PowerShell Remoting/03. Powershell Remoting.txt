@@ -1,0 +1,20 @@
+
+                Local Machine                                               Remote Machine
++-------------------------------------------+               +-------------------------------------------+
+|                                           |               |                                           |
+| +  Powershell.exe --> WS-MAN (HTTP) ------------------------> HTTP-Listener ----> WinRM Service +     |
+| |                                         |               |                                     |     |
+| +-<-------------------------------------<-------------------<-----------------------------------+     |
+|                                           |               |                                           |
++-------------------------------------------+               +-------------------------------------------+
+
+- Local PowerShell connects to WM-MAN
+- WS-MAN connects to the remote HTTP Listener
+- Remote HTTP Listener connects to WinRM Service
+- Win-RM Service connects back to Local PowerShell
+
+
+- Connect to remote
+- Autenticate to remote
+- Execute Commands remotely
+- Return output to the local machine
