@@ -9,6 +9,12 @@
 launch.json
 
 # My ignores
-/*pycache*/
+**pycache*/
 *pycache*
 *Zed Shaw*
+
+# My CPP ignores
+**/BIN/
+**/INTERMEDIATE/
+**/.vs/
+
