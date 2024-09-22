@@ -1,0 +1,16 @@
+[                                           Scuare brackets hold Arrays
+    {                                       Curly brackets holds Objects
+        "FirstName": "Mary",                Data is in name/value pairs
+        "LastName": "Jacobson",
+        "City": "Melbourne",
+        "Icecream": ["Blueberry",
+                     "Banana"
+                    ] 
+    },
+    {
+        "FirstName": "Derek",
+        "LastName": "Lakeson",
+        "City": "Brisbane",
+        "Icecream": "Rainbow" 
+    }
+]

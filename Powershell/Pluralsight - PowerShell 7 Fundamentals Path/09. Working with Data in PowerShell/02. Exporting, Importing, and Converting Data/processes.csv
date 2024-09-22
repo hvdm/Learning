@@ -1,0 +1,22 @@
+"Name","Handles","Threads","Company","StartTime"
+"esif_uf","152","System.Diagnostics.ProcessThreadCollection",,
+"esrv","929","System.Diagnostics.ProcessThreadCollection","","18-9-2024 08:54:02"
+"esrv_svc","1716","System.Diagnostics.ProcessThreadCollection",,
+"EXCEL","2472","System.Diagnostics.ProcessThreadCollection","Microsoft Corporation","18-9-2024 10:21:36"
+"explorer","4848","System.Diagnostics.ProcessThreadCollection","Microsoft Corporation","18-9-2024 08:50:02"
+"wininit","164","System.Diagnostics.ProcessThreadCollection",,
+"winlogon","271","System.Diagnostics.ProcessThreadCollection",,
+"WINWORD","2899","System.Diagnostics.ProcessThreadCollection",,"19-9-2024 07:50:46"
+"wlanext","127","System.Diagnostics.ProcessThreadCollection",,
+"WmiPrvSE","183","System.Diagnostics.ProcessThreadCollection",,
+"WmiPrvSE","549","System.Diagnostics.ProcessThreadCollection",,
+"WmiPrvSE","465","System.Diagnostics.ProcessThreadCollection",,
+"WmiPrvSE","200","System.Diagnostics.ProcessThreadCollection",,
+"WmiPrvSE","750","System.Diagnostics.ProcessThreadCollection",,
+"WmiPrvSE","262","System.Diagnostics.ProcessThreadCollection",,
+"WmiPrvSE","1446","System.Diagnostics.ProcessThreadCollection",,
+"WmiPrvSE","187","System.Diagnostics.ProcessThreadCollection",,
+"WsAppService3","252","System.Diagnostics.ProcessThreadCollection",,
+"WUDFHost","269","System.Diagnostics.ProcessThreadCollection",,
+"WUDFHost","284","System.Diagnostics.ProcessThreadCollection",,
+"WUDFHost","421","System.Diagnostics.ProcessThreadCollection",,

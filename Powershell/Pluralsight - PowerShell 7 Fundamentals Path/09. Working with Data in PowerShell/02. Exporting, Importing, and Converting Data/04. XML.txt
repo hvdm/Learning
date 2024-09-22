@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>      Prolog=optional, if exisst must be the first line
+<IcecreamData>                              Root element
+  <person>                                  Child Element
+    <FirstName>Mary</FirstName>
+    <LastName>Jacobson</LastName>
+    <City>Melbourne</City>
+    <Icecream>Blueberry</Icecream>
+  </person>                                 Closing Child Element
+  <person>                                  Child Element
+    <FirstName>Derek</FirstName>
+    <LastName>Lakeson</LastName>
+    <City>Brisbane</City>
+    <Icecream>Rainbow</Icecream>
+  </person>                                 Closing Child Element
+</IcecreamData>                             Closing Root element 

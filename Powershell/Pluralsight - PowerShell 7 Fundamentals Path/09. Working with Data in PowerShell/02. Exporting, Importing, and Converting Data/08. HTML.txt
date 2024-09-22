@@ -1,0 +1,10 @@
+<!DOCTYPE html>                                             DOCTYPE
+<html>                                                          Root Element
+<head>                                                          Contains meta information about the page
+    <title>My Icecream Report</title>                           Shown in the browser
+</head>
+    <body>                                                      Defines the document body
+        <h1>Icecream report</h1>                                Defines a large heading
+        <p>This report contains info about fav icecreams</p>    Defines a paragraph
+    </body>
+</html>
