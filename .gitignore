@@ -12,6 +12,7 @@ launch.json
 **pycache*/
 *pycache*
 *Zed Shaw*
+.gitignore
 
 # My CPP ignores
 **/BIN/
