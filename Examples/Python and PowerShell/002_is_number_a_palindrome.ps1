@@ -11,7 +11,7 @@
 # Read the string from the input
 $str = Read-Host "Please enter a string: "
 
-# [::-1] means "slice the entire string or sequence in reverse order."
+# [-1 .. -length of $str] means "slice the entire string or sequence in reverse order."
 if ($str -eq $( -join $str[-1.. - $str.length]))
 {
     Write-Host("$str is a palindrome")
